@@ -28,7 +28,7 @@ Using Python for data cleaning, exploratory data analysis (EDA), and correlation
 - **Python 3**
 - `pandas`, `numpy` — data loading, cleaning, and transformation
 - `matplotlib`, `seaborn` — visualization
-- `scikit-learn` — imported to scaffold a predictive extension (see [Future Work](#future-work))
+- `scikit-learn` — imported to scaffold a predictive extension 
 
 ## Methodology
 
@@ -57,9 +57,9 @@ Using Python for data cleaning, exploratory data analysis (EDA), and correlation
 
 ```
 .
-├── Reducing_Corporate_Churn_An_Actionable_Data_Audit_using_Python_and_Correlation_Analysis.ipynb
+├── README.md
 ├── HR-Employee-Attrition.csv
-└── README.md
+└── Reducing_Corporate_Churn_An_Actionable_Data_Audit_using_Python_and_Correlation_Analysis.ipynb
 ```
 
 ## How to Run
